@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/location_search"
+        android:title="@string/pick_up"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/list_button"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="List"
+        android:onClick="toggleMenus"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/select_map_button"
+        android:title="Pick Map"
+        android:icon="@drawable/ic_pin_drop_grey_400_24dp"
+        app:showAsAction="ifRoom"/>
+</menu>

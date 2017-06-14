@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Grab Simulation</string>
+    <string name="retry">Retry</string>
+    <string name="login">Login</string>
+    <string name="ok">OK</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="close">Close</string>
+    <string name="closed">Closed</string>
+    <string name="loading">Loading</string>
+    <string name="sending_location">Sending Location</string>
+    <string name="google_play_service_request">Please <b>enable</b> or <b>update</b> google play services to get recommendations</string>
+    <string name="updates">Updates</string>
+    <string name="title_activity_add_todo_list">AddTodoListActivity</string>
+    <string name="title_activity_todo_list">TodoListActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="pick_up">Enter pick-up point</string>
+    <string name="drop_off">Where are you going?</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAxsvs7lU35Eww0LNJMOWjYi9qS019zBRU
+    </string>
+    <string name="top_up">TOP-UP CREDITS</string>
+    <string name="add_payment_method">ADD PAYMENT METHOD</string>
+    <string name="top_up_value_desc">1. Select a top-up value (RP)</string>
+    <string name="first_top_up_value">50,000</string>
+    <string name="second_top_up_value">100,000</string>
+    <string name="third_top_up_value">200,000</string>
+    <string name="top_up_value_hint">or enter a value</string>
+    <string name="top_up_payment_method">2. Select preferred payment method</string>
+    <string name="summary">Summary</string>
+    <string name="summary_pay_label">Pay</string>
+    <string name="summary_bonus_label">Bonus</string>
+    <string name="summary_fee_label">Transaction Fee</string>
+    <string name="summary_total_label">Total</string>
+    <string name="distance_value">%1$.2fkm</string>
+    <string name="payment_method_hint">Select from the list</string>
+</resources>
+
+
+
